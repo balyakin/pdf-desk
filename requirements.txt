@@ -1,0 +1,4 @@
+pageindex==0.2.20
+streamlit==1.64.0
+pypdfium2==5.13.0
+PyPDF2==3.0.1

@@ -1,0 +1,13 @@
+data/
+.venv/
+__pycache__/
+*.py[cod]
+*.log
+.DS_Store
+.pytest_cache/
+.env
+.env.*
+!.env.example
+AGENTS.md
+docs/superpowers/
+.superpowers/
